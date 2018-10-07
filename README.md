@@ -12,3 +12,5 @@ And the flight.cc and flight.h are the head flie and class functions. final-yw3c
 
 Professor gave us the main function ola.cc and data file request.dat. (COMS 6100 Fundamental of Computational Science)
 Require for a class and head file. (Vehicle.cc and Vehicle.h)
+
+weekday.cpp: Given the birthday and print what day is that day(like Monday, Tuesday, ...) (COMS 6100 Fundamental of Computational Science)
